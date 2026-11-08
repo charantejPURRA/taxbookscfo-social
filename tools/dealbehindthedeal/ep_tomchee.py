@@ -43,7 +43,7 @@ CALLOUTS = {'after': [(0.0, 'label', 'ON TV vs. AT THE EXIT'), (0.2, 'line', [('
  'hook': [(0.0, 'big', [('$600K', 'w')]), (0.5, 'card', ('Four years later, the lender seized', [('the assets', 'o')]))],
  'lesson': [(0.0, 'line', [('Debt-funded growth', 'w')]), (0.18, 'line', [('has a ', 'w'), ('deadline.', 'oi')]), (0.55, 'chips', ['Know your runway', 'Who gets paid first'])],
  'math': [(0.0, 'label', 'THE DEBT'),
-          (0.12, 'line', [('Loan not repaid → ', 'w'), ('assets seized', 'o')]),
+          (0.12, 'line', [('Loan not repaid: ', 'w'), ('assets seized', 'o')]),
           (0.45, 'line', [('Sept 2017: ', 'w'), ('Gold Star Chili', 'o')]),
           (0.75, 'sub', [('Bought from the lender · 23 locations · terms undisclosed', 'p')])],
  'offers': [(0.0, 'label', 'THE OFFERS'),

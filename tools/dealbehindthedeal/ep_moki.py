@@ -42,7 +42,7 @@ CALLOUTS = {'after': [(0.0, 'label', 'AFTER THE CAMERAS'), (0.25, 'big', [('Repo
  'math': [(0.0, 'label', 'THE MATH (ILLUSTRATIVE)'),
           (0.12, 'line', [('$3M over 7 years', 'w')]),
           (0.4, 'line', [('At 10% discount: ', 'w'), ('≈$2.1M today', 'o')]),
-          (0.72, 'slam', [('Royalty upside → buyer', 'oi')])],
+          (0.72, 'slam', [('Royalty upside goes to the buyer', 'oi')])],
  'offers': [(0.0, 'label', 'ON AIR'),
             (0.15, 'line', [('License: ', 'w'), ('$3M over 7 yrs', 'o')]),
             (0.4, 'sub', [('+ 12.5% royalty', 'p')]),
